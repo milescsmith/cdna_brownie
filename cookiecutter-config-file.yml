@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "cdna-brownie"
+  project_description: "Utilities for processing PacBio long-read RNAseq data"
+  organization: "OMRF"
+  license: "GNU GPL v3.0"
+  version: "0.1.0"
+  github_name: "milescsmith"
+  email: "miles-smith@omrf.org"

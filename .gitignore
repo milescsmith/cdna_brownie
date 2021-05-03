@@ -1,0 +1,10 @@
+*.gtf
+*.gff
+*.gff3
+*.fasta
+*.fa
+*.fastq
+*.fq
+*gff*
+*gff3*
+notebooks/test_data/*
